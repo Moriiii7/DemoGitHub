@@ -6,6 +6,7 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(112500);
   pinMode(LED_BUILTIN, OUTPUT);
+  Serial.println("Hola Josué");
 }
 
 void loop() {
