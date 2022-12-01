@@ -6,7 +6,9 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(112500);
   pinMode(LED_BUILTIN, OUTPUT);
-  Serial.println("Ayuda");
+  Serial.println("NO ME DEJA PUSHEAR");
+  Serial.println("NO ME DEJA PUSHEAR");
+  Serial.println("NO ME DEJA PUSHEAR");
 }
 
 void loop() {
