@@ -9,6 +9,10 @@ void setup() {
   Serial.println("NO ME DEJA PUSHEAR");
   Serial.println("NO ME DEJA PUSHEAR");
   Serial.println("NO ME DEJA PUSHEAR");
+  Serial.println("NO ME DEJA PUSHEAR");
+  Serial.println("NO ME DEJA PUSHEAR");
+  Serial.println("NO ME DEJA PUSHEAR");
+  
 }
 
 void loop() {
